@@ -1,0 +1,17 @@
+MarcaMensaje = 7, 20, 710, 566, C
+MarcaMensajes = -4, 22, 723, 546, C
+Validador = 12, 204, 772, 655, C
+ValidarConObjeto = 104, 18, 780, 514, C
+ValidarConObjetos = 21, 135, 911, 676, C
+ValidarExpresion = 185, 128, 981, 669, C
+ValidarExpresiones = 14, 37, 1007, 378, C
+ValidarNumerico = 34, 6, 787, 547, C
+ValidarNumericos = 73, 99, 886, 625, C
+ValidarRango = -16, -5, 748, 536, C
+ValidarRangos = -2, 102, 479, 643, C
+ValidarVacio = 53, 7, 914, 307, C
+ValidarVacios = -35, 133, 780, 622, C
+ValidarFechas = 136, 143, 745, 684, C
+ValidarFecha = 27, 133, 891, 570, C
+MarcaObligatorios = 14, 170, 880, 487, C
+MarcaObligatorio = 77, 307, 879, 727, C

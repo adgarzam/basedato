@@ -1,0 +1,4 @@
+16/07/2002: 
+--------------------------------
+1) Verificar que las colecciones de los validadores tengan adecuadamente programado el método Add.
+2) Probar la funcionalidad del validador.
